@@ -1,0 +1,10 @@
+ollama
+colorama
+requests
+bs4
+beautifulsoup4
+dnspython
+aiohttp
+pathlib
+dnspython
+aiohttp
