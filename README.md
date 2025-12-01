@@ -15,7 +15,7 @@ A PowerShell-based penetration testing and exploitation framework designed for s
 ## Installation
 
 ```bash
-git clone https://github.com/TechNinja632/Powerstr1ke.git
+git clone https://github.com/Ar113s/P0WERSTR1KE.git
 cd Powerstr1ke
 ```
 
